@@ -9,7 +9,7 @@
 #include "ffconf.h"
 #include "diskio.h"
 
-#include "usbh.h"
+#include "hal_usbh.h"
 #include "usbh/dev/msd.h"
 
 /*-----------------------------------------------------------------------*/
